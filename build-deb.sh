@@ -35,7 +35,7 @@ cat > "$PKG/DEBIAN/control" <<EOF
 Package: libfprint-goodix-53xd
 Version: $VERSION
 Architecture: amd64
-Maintainer: Jahed <muradpur.switch@gmail.com>
+Maintainer: Jahedul Islam <jahed@banglatext.com>
 Section: libs
 Priority: optional
 Depends: libc6 (>= 2.38), libglib2.0-0t64 (>= 2.66), libgusb2 (>= 0.3.0), libssl3t64, libnss3, libpixman-1-0, libgudev-1.0-0
